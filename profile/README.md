@@ -1,4 +1,4 @@
-# 📄 LatexDo
+# LatexDo
 
 LatexDo is a modern, lightweight LaTeX environment built with Electron and React. 
 
