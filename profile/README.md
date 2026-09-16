@@ -2,6 +2,8 @@
 
 LatexDo is a modern, lightweight LaTeX environment built with Electron and React. 
 
+More [info](https://www.latexdo.org)
+
 ---
 
 ### Key Features
