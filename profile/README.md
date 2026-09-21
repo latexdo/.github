@@ -1,21 +1,32 @@
 # LatexDo
 
-LatexDo is a modern, lightweight LaTeX environment built with Electron and React. 
+Research has too many tabs. LatexDo changes that.
 
-More [info](https://www.latexdo.org)
+Read. Think. Write. Ask. Review. Refine.
+LatexDo brings your research workflow into one place.
 
----
+From the first idea to the final paper, everything stays close to your work — so you can spend your time researching, not managing tools.
 
-### Key Features
+Discover [LatexDo](https://www.latexdo.org)
 
-*   **Live Preview:** High-performance side-by-side PDF rendering.
-*   **Modern Editor:** Powered by Monaco (VS Code engine) with full syntax support.
-*   **Fast Build:** Automated multi-pass compilation using `latexmk`.
-*   **Native Desktop:** Smooth performance on macOS, Windows, and Linux.
+⸻
 
-### 🛠️ Requirements
+Everything around your paper, finally together.
 
-- **Node.js 20+**
-- **TeX Distribution:** MacTeX, MiKTeX, or TeX Live (with `latexmk`)
+- Write naturally. A clean, distraction-free space built for serious academic and scientific writing.
 
----
+- See your work take shape. Your paper stays right beside your writing, giving you immediate feedback as you work.
+
+- Think with your work. Ask questions, explore ideas, improve explanations, and work through difficult sections without losing context.
+
+- Refine, don’t restart. Review and improve what you’ve already written while keeping your original thinking at the center.
+
+- Stay in your flow. Less switching between editors, assistants, documents, and tools. More time actually moving your research forward.
+
+⸻
+
+Your research already has enough complexity.
+
+Your tools shouldn’t add more.
+
+LatexDo gives your research one place to live — from idea to paper.
